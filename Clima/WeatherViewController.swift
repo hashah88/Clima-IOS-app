@@ -1,16 +1,9 @@
-//
-//  ViewController.swift
-//  WeatherApp
-//
-//  Created by Angela Yu on 23/08/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
-//
+
 
 import UIKit
 import CoreLocation // Allows to access the GPS location of the phone
 import SwiftyJSON
 import Alamofire
-
 
 
 
